@@ -1,4 +1,4 @@
-package yu.soft.hashselector.model;
+package com.leraxcode.hashselector.model;
 
 import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;
@@ -6,7 +6,7 @@ import org.apache.commons.lang3.builder.HashCodeBuilder;
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 
-import yu.soft.hashselector.base.AIChecker;
+import com.leraxcode.hashselector.base.AIChecker;
 
 /**
  * Created by uuuuuuuuuuuuu on 4/16/2015.

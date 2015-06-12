@@ -1,6 +1,6 @@
-package yu.soft.hashselector.model;
+package com.leraxcode.hashselector.model;
 
-import yu.soft.hashselector.base.AIChecker;
+import com.leraxcode.hashselector.base.AIChecker;
 
 /**
  * Created by uuuuuuuuuuuuu on 4/16/2015.

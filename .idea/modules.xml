@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HashSelector.iml" filepath="$PROJECT_DIR$/HashSelector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashOrigin.iml" filepath="$PROJECT_DIR$/HashOrigin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashOrigin.iml" filepath="$PROJECT_DIR$/HashOrigin.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashselector/hashselector.iml" filepath="$PROJECT_DIR$/hashselector/hashselector.iml" />
     </modules>
   </component>
 </project>

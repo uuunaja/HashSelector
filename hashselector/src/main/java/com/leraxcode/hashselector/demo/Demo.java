@@ -1,11 +1,8 @@
-package yu.soft.hashselector.demo;
+package com.leraxcode.hashselector.demo;
 
 
 
-import java.util.ArrayList;
-import java.util.List;
-
-import yu.soft.hashselector.model.Info;
+import com.leraxcode.hashselector.model.Info;
 
 
 public class Demo {
