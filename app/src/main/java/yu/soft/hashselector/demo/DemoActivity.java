@@ -23,7 +23,7 @@ public class DemoActivity extends Activity {
         setContentView(tv);
 //        Info info1 = new Info(55 , "a");
 //        Info info2 = new Info(55 , "a");
-
+//  test merge request
         case1();
         case2();
         case3();
