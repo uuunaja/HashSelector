@@ -1,4 +1,4 @@
-#Not compatable for Kotlin Class only use for Java class
+# **(Not compatable) for Kotlin Class only use for Java class**
 
 # HashSelector
 
