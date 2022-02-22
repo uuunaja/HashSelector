@@ -1,3 +1,5 @@
+#Not compatable for Kotlin Class only use for Java class
+
 # HashSelector
 
 This Project is easy to make  the field object have multiple primary key
